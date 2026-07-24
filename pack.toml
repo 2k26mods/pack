@@ -1,0 +1,13 @@
+name = "Las aventuras de 2026"
+author = "xKuZz & friends"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a82bc1230a4091251c31cda74c33b57cd740246d2d84c31060322a5f05cbd61"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

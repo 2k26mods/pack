@@ -1,0 +1,13 @@
+name = "Mebahel's Creatures - Dwarven Automatons"
+filename = "mebahel-creatures-dwarven-1.0.7-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02880e5a6b6716fd1c50f03c7b30ce45762f4358"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8032085
+project-id = 1464755

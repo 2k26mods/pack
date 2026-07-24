@@ -1,0 +1,13 @@
+name = "L2 Hostility"
+filename = "l2hostility-3.0.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6483ecef91ed3cfd51c0e6f3f4e0beb6349b6abd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7815611
+project-id = 909207

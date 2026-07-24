@@ -1,0 +1,13 @@
+name = "Fiw AntiCheat"
+filename = "fiw-anticheat-neoforge-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUXFUwPg/versions/VrtfXR1D/fiw-anticheat-neoforge-1.21.1-2.0.1.jar"
+hash-format = "sha512"
+hash = "a73eb5ed0fe18e22b0d5a93957e26439f60d96530e0f56114f454f3eb819c5d605d1987e9557f269c22309da2e2f0ce1ecc76557d7fb2badb77ee802324643fa"
+
+[update]
+[update.modrinth]
+mod-id = "BUXFUwPg"
+version = "VrtfXR1D"

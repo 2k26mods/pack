@@ -1,0 +1,13 @@
+name = "Advent of Ascension (Nevermine)"
+filename = "AoA3-1.21.1-3.7.16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80795c1cb8f869cbdf7cf9fa036bb2a42776d93f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7424722
+project-id = 311054
